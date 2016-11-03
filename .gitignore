@@ -1,0 +1,6 @@
+sample/keys
+.terraform
+*.tfstate
+*.tfstate*
+*.swp
+*.swo
